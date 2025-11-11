@@ -302,6 +302,3 @@ Special thanks to the Defense Health Agency (DHA), Deloitte SEMOSS Team, and the
 
 ---
 
-**Built for the Defense Health Agency**
-
-*Version 0.0.1 - Active Development*
